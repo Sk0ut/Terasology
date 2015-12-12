@@ -8,4 +8,6 @@ The issue consists in adding a way to unbind keybindings. The game currently has
 
 With this in mind, we posted in the issue our proposed strategy to implement this feature. After some discussion, we figured that the best solution for this would be implementing a modal window, since it didn't remove one key from the bindable keys (like the original suggestion of using the Escape key) or wouldn't be confusing for the user (as the clicking with the mouse right button to enable binding/unbinding mode was).
 
-We then proceeded to produce a mockup with our suggested implemention, which was approved by [Cervator](https://github.com/Cervator). We then began the implementation of the feature.
+We then proceeded to produce a mockup with our suggested implemention, which was approved by [Cervator](https://github.com/Cervator). We then began the implementation of the feature. The following picture represents the mockup we produced:
+
+![Keybindings Modal Window](Resources/Keybindings Modal Window.png)
