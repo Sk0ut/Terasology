@@ -20,7 +20,7 @@ The following diagrams reveal the most important use cases of Terasology.
 
 This use case diagram allows us to visualize the 3 user roles on this software: player, host and client.
 
-![Singleplayer use case diagram](Resources/Singleplayer_Use_Case_Model.png) ![World Interaction use case diagram](UML Models/World_Interaction_Use_Case_Model.png)
+![Singleplayer use case diagram](Resources/Singleplayer_Use_Case_Model.png) ![World Interaction use case diagram](Resources/World_Interaction_Use_Case_Model.png)
 
 As a singleplayer, these are some of the expected actions to be available to the player. These use cases can be grouped as needed, like it's pictured on these models for
 the "World Interaction" use case.
