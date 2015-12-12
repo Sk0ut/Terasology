@@ -12,7 +12,7 @@ All these views are linked through the use case view (the +1), whose diagram was
 
 The logical view mainly focuses on the functional requirements and what the system (in another words, Terasology as a whole) should provide to its users. With this in mind, the system is decomposed in several abstractions and depicted as packages. The following package diagram describes this decomposition:
 
-<center> ![Package Diagram](UML Models/Package_Diagram.png) </center>
+![Package Diagram](Resources/Package_Diagram.png)
 
 #### Interpretation
 
@@ -28,7 +28,7 @@ In our opinion, this approach is a correct one because each functionality is ind
 
 The implementation view (also known as development view) focuses on decomposing software into components (program libraries, or subsystems) that are then developed by a small number of developers. These components are split into a hierarchy of layers, with the higher layers depending from the lower layers. The following component diagram depicts Terasology's layer hierarchy and dependencies:
 
-![Component Diagram](UML Models/Component_Diagram.png)
+![Component Diagram](Resources/Component_Diagram.png)
 
 #### Interpretation
 
@@ -42,7 +42,7 @@ In our opinion, this is an optimal approach since, as said, new modules can be a
 
 The deployment view (also know as the physical view) takes into account more hardware-related requirements of the system, such as availability, reliabilty, performance and scalability. The development view is concerned not only with the computational resources (depicted as nodes) and the connections between them, but also with the manifestation of said computational resources, in the form of artifacts. The following deployment diagram shows these connections regarding Terasology:
 
-![Deployment Diagram](UML Models/Deployment_Diagram.png)
+![Deployment Diagram](Resources/Deployment_Diagram.png)
 
 #### Interpretation
 
@@ -54,7 +54,7 @@ Terasology supports multiplayer. This is supported through two ways: Through a l
 
 The process view, acts as a linking bridge between the development and logical views. It takes into account requirements such as availability and performance, adressing issues such as the system's integrity and fault tolerance, and tries to fit the logical view's main abstractions into those requirements. The process view depicts this in a sequential manner, describing the system from the beggining of its execution to the end. We can see this in the following activity diagram:
 
-![Activity Diagram](UML Models/Activity_Diagram.png)
+![Activity Diagram](Resources/Activity_Diagram.png)
 
 #### Interpretation
 
