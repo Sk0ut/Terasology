@@ -16,6 +16,6 @@ We then proceeded to produce a mockup with our suggested implemention, which was
 
 After that, we implemented the modal box. The final result can be seen here:
 
-![Keybindings Modal Window](Resources/finalresult.jpg)
+![Final Result](Resources/finalresult.jpg)
 
 After finished implementing it, we issued a pull request, which can be seen here: [#2060](https://github.com/MovingBlocks/Terasology/pull/2060)
