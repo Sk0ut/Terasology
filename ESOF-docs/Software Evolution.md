@@ -11,3 +11,11 @@ With this in mind, we posted in the issue our proposed strategy to implement thi
 We then proceeded to produce a mockup with our suggested implemention, which was approved by [Cervator](https://github.com/Cervator). We then began the implementation of the feature. The following picture represents the mockup we produced:
 
 ![Keybindings Modal Window](Resources/Keybindings Modal Window.png)
+
+### Feature implementation and pull request issuing
+
+After that, we implemented the modal box. The final result can be seen here:
+
+![Keybindings Modal Window](Resources/finalresult.jpg)
+
+After finished implementing it, we issued a pull request, which can be seen here: [#2060](https://github.com/MovingBlocks/Terasology/pull/2060)
