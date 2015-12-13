@@ -18,4 +18,4 @@ After that, we implemented the modal box. The final result can be seen here:
 
 ![Final Result](Resources/finalresult.jpg)
 
-After finishing its implementation, we issued a pull request, that can be seen here: [#2060](https://github.com/MovingBlocks/Terasology/pull/2060)
+After finishing its implementation, we issued a pull request, that can be seen here: [#2060](https://github.com/MovingBlocks/Terasology/pull/2060). The pull request is currently awaiting to be accepted.
