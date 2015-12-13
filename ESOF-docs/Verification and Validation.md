@@ -94,4 +94,5 @@ not only tested the purpose of our fix but also other methods of the same class 
 ### Submission
 
 After solving the issue and ensuring that it passed all the tests, we created a [Pull Request](https://github.com/MovingBlocks/Terasology/pull/2017) to the original repository of Terasology and
-associated it with the corresponding issue. As this report is being written the PR is waiting for acceptance.
+associated it with the corresponding issue. Later on, the PR was verified and accepted by Terasology's
+development team.
