@@ -14,8 +14,9 @@ We then proceeded to produce a mockup with our suggested implemention, which was
 
 ### Feature implementation and pull request issuing
 
-After that, we implemented the modal box. The final result can be seen here:
+After that, some study and searching was made in order to understand the project's way to create a new GUI element and to manage the keybindings.
+The final result can be seen here:
 
 ![Final Result](Resources/finalresult.jpg)
 
-After finishing its implementation, we issued a pull request, that can be seen here: [#2060](https://github.com/MovingBlocks/Terasology/pull/2060). The pull request is currently awaiting to be accepted.
+After finishing its implementation, we issued pull request [#2060](https://github.com/MovingBlocks/Terasology/pull/2060), which is currently awaiting to be accepted.
